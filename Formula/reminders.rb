@@ -1,8 +1,8 @@
 class Reminders < Formula
   desc "Fuzzy search and browse Apple Reminders from CLI"
   homepage "https://github.com/cardmagic/reminders"
-  url "https://registry.npmjs.org/@cardmagic/reminders/-/reminders-1.0.0.tgz"
-  sha256 "3bc76cbcd305a99011cbb8f0e1b41c1f783e4ee2b54cb5959765675ad9e24b55"
+  url "https://registry.npmjs.org/@cardmagic/reminders/-/reminders-1.1.0.tgz"
+  sha256 "31d01e8f502f2b3a625ac87ead766bb1491f2038f264f2e623d7776a1fc6bd8f"
   license "MIT"
 
   depends_on "node"
