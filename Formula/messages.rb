@@ -8,6 +8,8 @@ class Messages < Formula
   depends_on "node"
   depends_on :macos
 
+  uses_from_macos "python" => :build
+
   def install
     system "npm", "install", *std_npm_args
     bin.install_symlink libexec.glob("bin/*")
