@@ -1,8 +1,8 @@
 class Messages < Formula
   desc "Fuzzy search and browse Apple Messages/iMessage from CLI"
   homepage "https://github.com/cardmagic/messages"
-  url "https://registry.npmjs.org/@cardmagic/messages/-/messages-1.2.1.tgz"
-  sha256 "309d53c91adf79a694e7267249d3e81264c184d6b0b32575765d021d8de24abb"
+  url "https://registry.npmjs.org/@cardmagic/messages/-/messages-1.5.0.tgz"
+  sha256 "dcbece0c10936005676196242dbcf5fc7bfe5d721574a6351e63f24aa70832f6"
   license "MIT"
 
   depends_on "node"

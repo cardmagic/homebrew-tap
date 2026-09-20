@@ -1,8 +1,8 @@
 class Notes < Formula
   desc "Fuzzy search and browse Apple Notes from CLI"
   homepage "https://github.com/cardmagic/notes"
-  url "https://registry.npmjs.org/@cardmagic/notes/-/notes-1.1.0.tgz"
-  sha256 "7b949204bbc07587dfdad7587b784a6547c403a72da4d88c5d5192ff1e489c6c"
+  url "https://registry.npmjs.org/@cardmagic/notes/-/notes-1.3.0.tgz"
+  sha256 "24b4769a7fd633377591f5da8bd54538ce6c29deb1fc3f7b7c73424e12d9927b"
   license "MIT"
 
   depends_on "node"
